@@ -1,0 +1,21 @@
+PATH
+  remote: .
+  specs:
+    ebrik (0.1.7)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rack (2.2.3)
+    rake (12.3.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  ebrik!
+  rack
+  rake (~> 12.0)
+
+BUNDLED WITH
+   2.1.4
